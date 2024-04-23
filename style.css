@@ -1,0 +1,35 @@
+body
+{
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    background-position: center;
+    background-attachment: fixed;
+}
+.anu h2
+{
+    color: brown;
+    text-align: center;
+}
+button
+{
+    color: rgb(18, 60, 214);
+}
+u
+{
+    color: rgb(205, 68, 18);
+}
+.anu label
+{
+    text-align: left;
+}
+.anu button
+{
+    background-color: aquamarine;
+    border: 2px solid blueviolet;
+    font-size: 20px;
+
+}
+h1
+{
+    text-align: center;
+}
